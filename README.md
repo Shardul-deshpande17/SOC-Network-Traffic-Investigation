@@ -118,7 +118,7 @@ Four panels, built to answer the questions a SOC analyst actually asks first:
 - **Activity by source IP** — who's generating it?
 
 ![Splunk Dashboard](evidence/splunk-dashboard-1.png)
-![Splunk Dashboard — detail view](evidence/splunk-dashboard-2.png)
+![Splunk Dashboard — detail view](evidence/splunk-dashboards-2-4.png)
 
 ---
 
