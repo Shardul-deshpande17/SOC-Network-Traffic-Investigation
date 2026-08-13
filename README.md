@@ -163,4 +163,6 @@ This repository is part of my personal cybersecurity portfolio.
 
 The content of this repository is intended solely to document my learning journey and practical experience. Copying, reproducing, or redistributing this documentation without prior written permission from the author is not permitted.
 
+---
+
 *Performed entirely within an isolated VirtualBox lab for educational and defensive security purposes.*
