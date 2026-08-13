@@ -4,7 +4,7 @@
 
 This project traces a simulated attack scenario through an actual analyst workflow: recon → packet capture → SIEM ingestion → detection logic → visualization. Everything was built and investigated in an isolated home lab, using core tools commonly encountered in SOC and network-security workflows.
 
-📄 [**Full Project Report (PDF)**](report/SOC_Network_Traffic_Investigation_Report.pdf) — detailed write-up with screenshots and full analysis
+📄 [**Full Project Report (PDF)**](SOC_Network_Traffic_Investigation_Report.pdf) — detailed write-up with screenshots and full analysis
 
 ---
 
