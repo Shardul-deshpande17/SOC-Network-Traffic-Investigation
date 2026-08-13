@@ -153,4 +153,14 @@ The value here isn't the scale of the data — it's the complete, correct workfl
 
 ---
 
+*This project documents hands-on work completed in a controlled home lab environment for educational and portfolio purposes. It demonstrates practical exposure to SOC analyst workflows and does not represent professional work experience.*
+
+## License and Copyright
+
+© 2026 Shardul Deshpande. All rights reserved.
+
+This repository is part of my personal cybersecurity portfolio.
+
+The content of this repository is intended solely to document my learning journey and practical experience. Copying, reproducing, or redistributing this documentation without prior written permission from the author is not permitted.
+
 *Performed entirely within an isolated VirtualBox lab for educational and defensive security purposes.*
