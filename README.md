@@ -130,7 +130,7 @@ evidence/
 ├── splunk-command-injection-detection.png
 ├── splunk-admin-command-detection.png
 ├── splunk-dashboard-1.png
-└── splunk-dashboard-2.png
+└── splunk-dashboards-2-4.png
 ```
 
 ---
